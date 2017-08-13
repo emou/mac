@@ -11,3 +11,5 @@ git:
 	ansible-playbook playbook.yml --tags "git" -i hosts -v
 ssh:
 	ansible-playbook playbook.yml --tags "ssh" -i hosts -v
+shell:
+	ansible-playbook playbook.yml --tags "shell" -i hosts -vvvv

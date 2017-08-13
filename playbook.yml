@@ -4,6 +4,7 @@
   vars:
 
     applications:
+      - flux
       - iterm2
       - google-chrome
       - spotify

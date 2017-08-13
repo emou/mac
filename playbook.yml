@@ -6,6 +6,7 @@
     applications:
       - iterm2
       - google-chrome
+      - spotify
 
     install_oh_my_zsh: true
 

@@ -13,8 +13,6 @@
     brew_taps:
       - caskroom/cask
 
-    dotfile_repo_username: glennr # the GH repo where your dotfiles are
-
     brew_utils:
       - cowsay # amazing
       - coreutils # Install GNU core utilities (those that come with OS X are outdated)

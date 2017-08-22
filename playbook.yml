@@ -5,8 +5,8 @@
 
     applications:
       - flux
-      - iterm2
       - google-chrome
+      - iterm2
       - spotify
 
     install_oh_my_zsh: true
@@ -15,12 +15,14 @@
       - caskroom/cask
 
     brew_utils:
+      - ag
       - cowsay # amazing
       - coreutils # Install GNU core utilities (those that come with OS X are outdated)
       - ctags
       #- ffmpeg
       - findutils  # Install GNU `find`, `locate`, `updatedb`, and `xargs`, g-prefixed
       - git
+      - go
       - node
       - npm
       - openssl

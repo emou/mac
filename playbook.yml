@@ -8,6 +8,7 @@
       - google-chrome
       - iterm2
       - spotify
+      - calibre
 
     install_oh_my_zsh: true
 
